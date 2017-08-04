@@ -92,3 +92,22 @@ https://fir.im/apps
 天眼查：         https://www.tianyancha.com/
 国家企业信用信息网  http://www.gsxt.gov.cn/index.html
 查看企业评价：   职友圈/看准网    
+
+28：图片选择开源库
+   https://github.com/Bilibili/boxing
+   https://github.com/zhihu/Matisse
+   https://github.com/crazycodeboy/TakePhoto
+   
+29：在线工具集合
+   http://www.atool.org/colorpicker.php  分享人：QQ：Light
+
+
+30：免费高清图片
+   https://pixabay.com/
+
+31：标注、测量
+   AdobeAIRInstaller（像素厨房） 分享人：QQ：Light
+   PxCook 像素大厨 http://www.fancynode.com.cn/pxcook
+   马克鳗 http://www.getmarkman.com/
+
+32：手机投影电脑:Vysor
