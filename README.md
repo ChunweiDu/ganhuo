@@ -57,3 +57,38 @@ http://www.colorfavs.com/
 17: Facebook调试神器
  https://github.com/facebook/stetho
  chrome://inspect/
+ 
+18: 流程图/协作图：  
+   https://www.processon.com/
+
+19：原型：   
+   axture/墨刀
+
+20：标注/尺寸：
+   AdobeAIRInstaller（像素厨房） 
+   PxCook 像素大厨 http://www.fancynode.com.cn/pxcook
+   马克鳗 http://www.getmarkman.com/
+
+21：阿里巴巴矢量图库：http://www.iconfont.cn/
+
+22：图片：https://pixabay.com/
+   
+23：bmob后端云：    
+https://www.bmob.cn/
+
+24：BUG管理
+蒲公英Bug管理云：https://bug.pgyer.com/
+BugDone：        https://www.bugdone.cn/home/
+delbug：         http://www.delbug.cn/
+鱼骨：           http://www.yugusoft.com/
+
+25：腾讯优测：      
+http://remote.utest.qq.com/deviceSearch?type=remote
+
+26：上线测试：       
+https://fir.im/apps
+
+27：查询企业
+天眼查：         https://www.tianyancha.com/
+国家企业信用信息网  http://www.gsxt.gov.cn/index.html
+查看企业评价：   职友圈/看准网    
