@@ -114,3 +114,6 @@ https://fir.im/apps
 
 33.安卓快速开发框架 
 https://github.com/xiaoyaoyou1212/XSnow
+
+34.Kotlin开发小视频app项目实践
+https://github.com/LRH1993/Eyepetizer-in-Kotlin
